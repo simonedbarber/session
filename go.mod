@@ -1,4 +1,4 @@
-module github.com/simonedbarber/session
+module github.com/qor/session
 
 go 1.19
 
