@@ -1,8 +1,9 @@
 package session
 
 import (
-	"html/template"
 	"net/http"
+
+	"github.com/simonedbarber/go-template/html/template"
 )
 
 // ManagerInterface session manager interface

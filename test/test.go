@@ -2,7 +2,6 @@ package test
 
 import (
 	"fmt"
-	"html/template"
 	"io/ioutil"
 	"net/http"
 	"net/http/cookiejar"
@@ -10,6 +9,8 @@ import (
 	"net/url"
 	"strings"
 	"testing"
+
+	"github.com/simonedbarber/go-template/html/template"
 
 	"github.com/qor/session"
 )
