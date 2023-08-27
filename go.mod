@@ -1,4 +1,4 @@
-module github.com/qor/session
+module github.com/simonedbarber/session
 
 go 1.19
 
@@ -7,9 +7,8 @@ require (
 	github.com/astaxie/beego v1.12.3
 	github.com/gorilla/context v1.1.1
 	github.com/gorilla/sessions v1.2.1
-	github.com/qor/middlewares v0.0.0-20170822143614-781378b69454
-	github.com/qor/qor v1.3.0
-	github.com/qor/session v0.0.0-20170907035918-8206b0adab70
+	github.com/simonedbarber/middlewares v0.0.0-20170822143614-781378b69454
+	github.com/simonedbarber/qor v1.3.0
 	github.com/simonedbarber/go-template/html/template v0.0.0-20221126165642-dd00c6627d57
 )
 

@@ -12,7 +12,7 @@ import (
 
 	"github.com/simonedbarber/go-template/html/template"
 
-	"github.com/qor/session"
+	"github.com/simonedbarber/session"
 )
 
 var Server *httptest.Server
